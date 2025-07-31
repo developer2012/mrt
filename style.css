@@ -116,6 +116,11 @@ a {
     line-height: 90px;
     letter-spacing: 0%;
   }
+  .container {
+    width: 80%;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
   .here {
     color: rgb(182, 224, 27);
     font-weight: 400;
